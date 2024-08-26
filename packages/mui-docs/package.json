@@ -49,7 +49,7 @@
     "@types/prop-types": "^15.7.12",
     "@types/react": "npm:types-react@19.0.0-rc.1",
     "next": "^14.2.5",
-    "react": "19.0.0-rc-6ebfd5b0-20240818"
+    "react": "19.0.0-rc-b57d2823-20240822"
   },
   "peerDependencies": {
     "@mui/base": "*",
